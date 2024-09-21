@@ -36,7 +36,7 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int]{
 }
     
     
-print(twoSum([1,2,3,4,5], 7))
+twoSum(nums: [n], <#T##target: Int##Int#>)
 
 
     
